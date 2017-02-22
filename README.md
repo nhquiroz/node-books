@@ -1,1 +1,12 @@
-# node-books
+<h1 align="center">
+  <br>
+    :books: node-books
+  <br>
+</h1>
+
+Free NodeJS books collection.
+
+- **[`Felix's Node.js Guide`](http://nodeguide.com/)**
+- **[`An Introduction to libuv`](https://nikhilm.github.io/uvbook/)**
+- **[`Module Patterns`](https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT)**
+- **[`npm recipes`](https://leanpub.com/npm-recipes)**
