@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :books: node-books
-  <br>
-</h1>
+# :books: node-books
 
-Free NodeJS books collection.
+> Free NodeJS books collection.
 
 - **[`Felix's Node.js Guide`](http://nodeguide.com/)**
 - **[`An Introduction to libuv`](https://nikhilm.github.io/uvbook/)**
